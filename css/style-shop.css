@@ -1,0 +1,7 @@
+.banner{
+    margin-bottom: -1px;
+}
+.inner-banner1{
+    background: url(../image/inner-banner1.jpg) no-repeat scroll center center;
+    padding: 60px 0;
+}

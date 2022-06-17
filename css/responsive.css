@@ -1,0 +1,136 @@
+@media only screen and (max-width: 1220px) {
+  .header-top,
+  .header-bottom {
+    padding: 0;
+    line-height: 40px;
+  }
+
+  .header-right-part {
+    margin-bottom: 10px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  .new-arrivals {
+    width: 1170px;
+    max-width: 100%;
+    margin: 0px;
+  }
+
+  .product-image {
+    max-width: 95%;
+  }
+
+  .product-detail-inner {
+    top: 30%;
+    bottom: 0%;
+  }
+
+  .product-item .detail-inner-left ul li {
+    margin-bottom: 20px;
+  }
+
+  .detail-inner-left ul li {
+    display: block;
+    margin-top: -10px;
+  }
+
+  .feature-box {
+    margin-bottom: 20px;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  .sidebar-menu-dropdown {
+    display: none;
+  }
+  .menu-navbar {
+    z-index: 12364;
+    background-color: #212529;
+    margin-top: 5px;
+  }
+
+  .new-arrivals {
+    margin: 0px;
+  }
+
+  .footer-static-block {
+    position: relative;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #e1e1e1;
+  }
+
+  .footer-static-block .icon-click {
+    display: inline-block;
+    position: absolute;
+    right: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    z-index: 1;
+  }
+  .footer-static-block .footer-block-contant {
+    display: none;
+  }
+  .icon-click {
+    display: block;
+  }
+  .icon-click:hover {
+    color: red;
+  }
+
+  .banner-detail .banner-detail-inner span.slogan {
+    font-size: 16px;
+    padding-bottom: 0;
+  }
+
+  .banner-detail .banner-detail-inner .banner-title {
+    font-size: 25px;
+    line-height: 25px;
+    margin-bottom: 15px;
+  }
+
+  .banner-detail .banner-detail-inner .offer {
+    display: none;
+  }
+
+  .sub-banner .sub-banner-detail a {
+    display: none;
+  }
+
+  .product-image {
+    max-width: 95%;
+  }
+
+  .product-detail-inner {
+    top: 30%;
+    bottom: 0%;
+  }
+
+  .product-item .detail-inner-left ul li {
+    margin-bottom: 20px;
+  }
+
+  .detail-inner-left ul li {
+    display: block;
+    margin-top: -10px;
+  }
+
+  .feature-box {
+    margin-bottom: 20px;
+  }
+}
+
+@media only screen and (max-width: 540px) {
+  .main-search {
+    width: 280px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1450px) {
+  .main-search {
+    width: 200px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1400px) {
+}
